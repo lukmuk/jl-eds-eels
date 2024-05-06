@@ -1,29 +1,19 @@
-# JupyterLite Demo
+# JupyterLite EDS EELS Comparison
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
-
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+This is a interactive comparison of energy-dispersive x-ray spectroscopy (EDS) and electron energy loss spectroscopy (EELS) spectra.
 
 ## ✨ Try it in your browser ✨
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://lukmuk.github.io/jl-eds-eels/)
 
-➡️ **https://jupyterlite.github.io/demo**
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
 
-## Requirements
+➡️ **https://lukmuk.github.io/jl-eds-eels/**
 
-JupyterLite is being tested against modern web browsers:
-
-- Firefox 90+
-- Chromium 89+
-
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
 
 ## Further Information and Updates
 
-For more info, keep an eye on the JupyterLite documentation:
+This page is based on the [JupyterLite](https://github.com/jupyterlite/jupyterlite) project and the [demo template](https://github.com/jupyterlite/demo).
 
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+The spectra are loaded via [HyperSpy](https://hyperspy.org/). It may be updated to the [eXSpy](https://hyperspy.org/exspy/) extension.
+
+I used this setup guide on [YouTube](https://www.youtube.com/watch?v=-Jq0Qb39YPk).
