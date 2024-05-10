@@ -2,6 +2,8 @@
 
 This is a interactive comparison of energy-dispersive x-ray spectroscopy (EDS) and electron energy loss spectroscopy (EELS) spectra.
 
+![Cr2O3-eds-eels-comparison](https://github.com/lukmuk/jl-eds-eels/blob/main/teaser.png)
+
 ## ✨ Try it in your browser ✨
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://lukmuk.github.io/jl-eds-eels/)
 
